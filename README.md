@@ -15,7 +15,7 @@
 ```
 XpeRay/
 │
-├── XpeRay/                # Directory containing saved fine-tuned model
+├── Model/                # Directory containing saved fine-tuned model
 ├── training.py            # Fine-tuning script using Unsloth and Hugging Face
 ├── inference.py           # Inference script to generate radiology reports
 ├── test.py                # Evaluation script with K-Fold validation
