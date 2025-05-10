@@ -20,6 +20,8 @@ XpeRay/
 ├── inference.py           # Inference script to generate radiology reports
 ├── test.py                # Evaluation script with K-Fold validation
 ├── results.txt            # Evaluation results summary
+├── visualization.py       # to analyse results.txt and extract curves
+
 ````
 
 ## Dataset
