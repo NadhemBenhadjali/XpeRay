@@ -1,4 +1,6 @@
 # XpeRay: Vision-Language Radiology Report Generation
+📦 Website repository available here: [AY00Z/XpeRay (Web)](https://github.com/AY00Z/XpeRay)  
+📁 This is the **model repository** for XpeRay.
 
 **XpeRay** is a vision-language model fine-tuned using Unsloth's `FastVisionModel` based on the `LLaMA-3.2-11B-Vision-Instruct` (4-bit) architecture. It is designed to generate detailed, accurate radiology reports from medical images.
 
