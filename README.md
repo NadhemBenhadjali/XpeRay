@@ -23,7 +23,27 @@ XpeRay/
 ├── visualization.py       # to analyse results.txt and extract curves
 
 ````
+## 🧠 Model Weights
 
+The model weights are **not included** in this repository due to GitHub file size limitations.
+
+👉 To use the model, please **download the `adapter_model.safetensors` file from Kaggle**:
+
+🔗 [XpeRay Model on Kaggle](https://www.kaggle.com/models/nadhembenhadjali/xperay)
+
+After downloading, place the file into the `model/` directory:
+
+```
+
+XpeRay/
+├── model/
+│   └── adapter\_model.safetensors
+├── inference.py
+├── README.md
+└── ...
+
+```
+> ⚠️ Make sure the file is named exactly `adapter_model.safetensors`, as expected by the code. Rename if necessary.
 ## Dataset
 
 - **ROCO v2 Radiology**  
