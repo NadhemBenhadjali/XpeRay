@@ -13,7 +13,6 @@
 ## Directory Structure
 
 ```
-
 XpeRay/
 │
 ├── XpeRay/                # Directory containing saved fine-tuned model
@@ -21,7 +20,6 @@ XpeRay/
 ├── inference.py           # Inference script to generate radiology reports
 ├── test.py                # Evaluation script with K-Fold validation
 ├── results.txt            # Evaluation results summary
-
 ````
 
 ## Dataset
